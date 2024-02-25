@@ -1,3 +1,3 @@
 <h1 align="center">
-  `NOT YET COMPLETE.. (WORKING ON IT)`
+  `NOT YET COMPLETED.. (WORKING ON IT)`
 </h1> 
