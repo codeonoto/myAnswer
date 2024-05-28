@@ -1,0 +1,1 @@
+pdf not uploading when i click upload btn but working while on draging
